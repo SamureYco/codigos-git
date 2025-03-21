@@ -7,3 +7,5 @@
 6. git checkout --.   
 7. git log   sirve para ver todos los cambios
 8. git commit --amend   para editar el ultimo commit
+
+9. git checkout -b    para crear una nueva rama
