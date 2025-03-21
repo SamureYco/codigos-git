@@ -10,4 +10,6 @@
 7. git merge  (el nombre de la rama) Siempre se hace de la main
 :wq!    Al final se termina asi 
 
-8. git branch -d (el nombre de la rama)
+8. git branch -d (el nombre de la rama)     Borrar la rama
+
+9. git push      Subir todos los cambios al repositorio
