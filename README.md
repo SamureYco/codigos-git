@@ -13,3 +13,5 @@
 8. git branch -d (el nombre de la rama)     Borrar la rama
 
 9. git push      Subir todos los cambios al repositorio
+
+10. git commit -am 
