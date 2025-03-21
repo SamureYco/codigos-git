@@ -9,4 +9,5 @@
 8. git commit --amend   para editar el ultimo commit
 
 9. git checkout -b    para crear una nueva rama
-10. git branch
+10. git branch   para mirar todas las ramas
+11. git checkout master
